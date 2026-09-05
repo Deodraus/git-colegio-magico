@@ -35,7 +35,7 @@ Cada vez que resuelvas un reto, debes hacer un **commit** y luego un **push** a 
 ### 🧙‍♂️ Reto 1: El Hechizo de Iniciación (`reto1.HechizoIniciacion`)
 ¡Este es el hechizo que despertará al Tribunal Mágico! Al completarlo y enviarlo, el Tribunal evaluará tu magia y comenzará a enviarte los siguientes retos (a partir del Reto 2) directamente a tu **Buzón (Issues)**.
 *   **Misión:** Abre `src/main/java/com/colegiomagico/reto1/HechizoIniciacion.java` y completa el método `invocar()` para que devuelva una cadena con tu nombre y el nombre de tu profesor.
-*   **Git:** Haz un `git add`, tu primer `git commit` (usando una convención como `feat: ...`) y luego un `git push`. ¡Al hacer esto, despertarás al Tribunal Mágico!
+*   **Git:** Haz un `git add .`, tu primer `git commit -m "feat: Se aplicó los cambios"` (usando una convención como `feat: ...`) y luego un `git push`. ¡Al hacer esto, despertarás al Tribunal Mágico!
 
 ### ➕ Reto 2: Aritmancia Básica
 La magia requiere precisión matemática.
