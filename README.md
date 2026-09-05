@@ -9,7 +9,7 @@ Para graduarte, deberás superar **10 retos mágicos**. Cada reto pondrá a prue
 1.  **Crea tu propia copia del pergamino:** Haz clic en el botón **Fork** (Bifurcar) en la esquina superior derecha de este repositorio. Esto creará una copia exacta en tu propia cuenta de GitHub, donde podrás practicar tus hechizos sin peligro.
 2.  **Clona tu repositorio:** Usa tu terminal mágica para descargar el código a tu computadora:
     ```bash
-    git clone https://github.com/TU_USUARIO/ActividadGit.git
+    git clone https://github.com/Deodraus/ActividadGit.git
     cd ActividadGit
     ```
 3.  **Despierta la Magia del Tribunal (GitHub Actions):** Al hacer tu copia (*Fork*), los encantamientos automáticos estarán desactivados. ¡Debes encenderlos para ser evaluado! Sigue las instrucciones en el pergamino [Activar la Magia (`assets/activar_magia.md`)](assets/activar_magia.md) antes de lanzar tu primer hechizo.

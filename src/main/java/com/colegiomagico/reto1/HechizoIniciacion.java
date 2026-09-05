@@ -6,9 +6,8 @@ package com.colegiomagico.reto1;
 public class HechizoIniciacion {
 
     public static String invocar() {
-        return ""; // TODO: Cambia esto
+        return "My name is Deodraus, I'm student of the Salazar y Herrera University";
     }
-
     public static void main(String[] args) {
         System.out.println("Resultado: " + invocar());
     }
